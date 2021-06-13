@@ -29,12 +29,13 @@ public class BinaryTreeApp {
         System.out.print("Traversal dengan preorder :");
         tree.preOrder();
         System.out.println();
-        System.out.print("Traversal dengan inorder :");
-        tree.inOrder();
-        System.out.println();
         System.out.print("Traversal dengan postorder :");
         tree.postOrder();
         System.out.println();
+        System.out.print("Traversal dengan inorder :");
+        tree.inOrder();
+        System.out.println();
+        
     }
     
 }
